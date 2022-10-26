@@ -5,14 +5,14 @@
 </template>
 
 <script>
-//modified app
+//modified app 
 export default {
   name: "App",
   components: {
   },
 };
 </script>
-
+//Style CSS
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400&display=swap");
 #app {
